@@ -1,0 +1,28 @@
+.topnav {
+    overflow: hidden;
+    background-color: #0e94ff;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #0066ff;
+    color: black;
+  }
+  
+  .topnav-right {
+    font-family: "Alike Angular"; 
+    font-size: 12px;
+     font-style: normal; 
+     font-variant: normal; 
+     font-weight: 400;
+      line-height: 13.2px;
+    float: right;
+  }
